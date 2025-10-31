@@ -1,4 +1,4 @@
-<img src="Mobase_LLM_Service.png" alt="SVG 이미지 설명" width="1536" height="1024">
+<img src="images/Mobase_LLM_Service.png" alt="SVG 이미지 설명" width="1536" height="1024">
 
 
 # 1.  계정 생성 및 로그인 방법
