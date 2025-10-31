@@ -12,6 +12,8 @@
 
 ---
 
+<br>
+
 ## 🚀 1. 계정 생성 및 사용법
 
 <details>
@@ -71,7 +73,7 @@
 
 </details>
 
-
+<br>
 
 ## 🎯 2. 주요 기능
 
@@ -88,8 +90,6 @@
 
 </details>
 
-<br>
-
 ### 2. 코드 생성
 
 <details>
@@ -102,8 +102,6 @@
 <img src="images/image 6.png" alt="코드 생성" width="700">
 
 </details>
-
-<br>
 
 ### 3. 코드 검증
 
